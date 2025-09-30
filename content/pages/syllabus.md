@@ -4,6 +4,8 @@ description: This syllabus section provides a course overview and information on
   times, requirements, grading, and the schedule of course topics, class activities,
   and assignments.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
