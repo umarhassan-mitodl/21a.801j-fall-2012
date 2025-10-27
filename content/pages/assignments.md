@@ -2,8 +2,6 @@
 content_type: page
 description: This section outlines the assignments for the course including fieldwork
   assignments and the final project.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
