@@ -4,8 +4,6 @@ description: This syllabus section provides a course overview and information on
   times, requirements, grading, and the schedule of course topics, class activities,
   and assignments.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -163,7 +161,7 @@ Microfinance vs. fair trade
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-[Workshop on Gender, Technology and Development](http://gendertech.weebly.com/schedule.html)
+{{% resource_link "61a05d51-96dd-411b-b457-316eb9ed822b" "Workshop on Gender, Technology and Development" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -187,7 +185,7 @@ In-class practicum on public health promotion: how to design a (flexible) safe s
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Visit to [D-Lab](http://d-lab.mit.edu/) to learn about possible final project topics
+Visit to {{% resource_link "7fa57bad-d5bb-4ba0-b0c8-41d073ad3bcc" "D-Lab" %}} to learn about possible final project topics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
